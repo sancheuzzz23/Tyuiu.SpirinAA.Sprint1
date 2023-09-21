@@ -34,7 +34,7 @@ namespace Tyuiu.SpirinAA.Sprint1.Task1.V10
 
             Console.WriteLine("Введите значение X:");
             x = Convert.ToDouble(Console.ReadLine());
-
+            
             Console.WriteLine("Введите значение Y:");
             y = Convert.ToDouble(Console.ReadLine());
 
